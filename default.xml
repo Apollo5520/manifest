@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="sekede" fetch=".."/>
+
+  <default revision="master" remote="sekede" sync-j="4" />
+
+  <project path="s9-s5pv210-uboot" name="s9-s5pv210-uboot">
+  <project path="s9-s5pv210-android" name="s9-s5pv210-android">
+  <project path="s9-s5pv210-kernel" name="s9-s5pv210-kernel">
+
+</manifest>
